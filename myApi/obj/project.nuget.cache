@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "dgSpecHash": "ttTRlqi6/OXeuLfScCknJJJflfProb3UoM36SdqKW05Wfi8/rbhSMz6y8BstpA/GQXk2mcDZv8Ll/CsGNBN0Fg==",
+  "success": true,
+  "projectFilePath": "/Users/muhammad/Documents/poc/myApi/myApi/myApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/muhammad/.nuget/packages/microsoft.aspnet.webapi.client/4.0.20710/microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/microsoft.aspnet.webapi.core/4.0.20710/microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/microsoft.aspnet.webapi.webhost/4.0.20710/microsoft.aspnet.webapi.webhost.4.0.20710.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/microsoft.net.http/2.0.20710/microsoft.net.http.2.0.20710.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/microsoft.web.infrastructure/1.0.0/microsoft.web.infrastructure.1.0.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/namotion.reflection/2.0.10/namotion.reflection.2.0.10.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/njsonschema/10.6.10/njsonschema.10.6.10.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/nswag.core/13.15.10/nswag.core.13.15.10.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/swashbuckle/5.6.0/swashbuckle.5.6.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/swashbuckle.aspnetcore/6.3.0/swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/swashbuckle.aspnetcore.swagger/6.3.0/swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.3.0/swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.3.0/swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/swashbuckle.core/5.6.0/swashbuckle.core.5.6.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.diagnostics.tools/4.0.1/system.diagnostics.tools.4.0.1.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.dynamic.runtime/4.3.0/system.dynamic.runtime.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.io.filesystem/4.0.1/system.io.filesystem.4.0.1.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.io.filesystem.primitives/4.0.1/system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.linq/4.3.0/system.linq.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.linq.expressions/4.3.0/system.linq.expressions.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.objectmodel/4.3.0/system.objectmodel.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.reflection.emit.lightweight/4.3.0/system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.reflection.extensions/4.3.0/system.reflection.extensions.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.reflection.typeextensions/4.3.0/system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.resources.resourcemanager/4.3.0/system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.runtime.extensions/4.3.0/system.runtime.extensions.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.runtime.handles/4.3.0/system.runtime.handles.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.runtime.interopservices/4.3.0/system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.runtime.serialization.primitives/4.1.1/system.runtime.serialization.primitives.4.1.1.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.text.encoding.extensions/4.0.11/system.text.encoding.extensions.4.0.11.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.text.regularexpressions/4.1.0/system.text.regularexpressions.4.1.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.threading/4.3.0/system.threading.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.threading.tasks.extensions/4.0.0/system.threading.tasks.extensions.4.0.0.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.xml.readerwriter/4.0.11/system.xml.readerwriter.4.0.11.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/system.xml.xdocument/4.0.11/system.xml.xdocument.4.0.11.nupkg.sha512",
+    "/Users/muhammad/.nuget/packages/webactivatorex/2.0.0/webactivatorex.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.WebApi.Client 4.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.WebApi.Client",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.WebApi.Core 4.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.WebApi.Core",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.WebApi.WebHost 4.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.WebApi.WebHost",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Net.Http 2.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Net.Http",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Web.Infrastructure 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Web.Infrastructure",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Swashbuckle.Core 5.6.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Swashbuckle.Core",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WebActivatorEx 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WebActivatorEx",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
